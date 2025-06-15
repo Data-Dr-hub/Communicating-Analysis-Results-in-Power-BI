@@ -1,7 +1,7 @@
 # Communicating Analysis Results: Power BI
 ![](cover.PNG)
 ## Introduction
-In this project, I created a new dashboard by amending the that from the Hands-On practice to demonstrate my skills in power BI and derive some insights from the **Adventureworks Database**.
+In this project, I created a new dashboard by amending an existing one to demonstrate my skills in power BI and derive some insights from the **Adventureworks Database**.
 
 [Here](PowerBI_Project.pbix) is the Power BI file, and I have also documented the sql queries in [this file](Queries.sql)
 ## Problem Statement : ASK PHASE
